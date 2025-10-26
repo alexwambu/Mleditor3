@@ -1,0 +1,8 @@
+fastapi==0.115.2
+uvicorn==0.30.1
+web3==6.11.3
+py-solc-x==1.1.1
+aiofiles
+python-multipart
+requests
+python-dotenv
